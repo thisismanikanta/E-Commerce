@@ -100,7 +100,6 @@ This hands-on journey helped me strengthen my **Frontend Development** and **Dep
 ## 👨‍💻 Author
 
 **Ganta Manikanta Anjaneya**
-3rd Year Student | Aspiring Full Stack Developer
 
 ---
 
