@@ -27,7 +27,7 @@ This project demonstrates a modern **online shopping interface** where users can
 ## 💻 Source Code
 
 GitHub Repository:
-🔗 https://lnkd.in/ePa6wnFD
+🔗 [https://github.com/thisismanikanta/E-Commerce](https://github.com/thisismanikanta/E-Commerce)
 
 ---
 
