@@ -20,7 +20,7 @@ This project demonstrates a modern **online shopping interface** where users can
 
 ## 🚀 Live Demo
 
-🔗 https://lnkd.in/eyqniW_C
+🔗 [https://e-mart-peach.vercel.app/](https://e-mart-peach.vercel.app/)
 
 ---
 
